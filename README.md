@@ -1,4 +1,4 @@
-# 🆚 BeautifulSoup vs Selenium – Web Scraping Comparison
+# BeautifulSoup 🆚 Selenium – Web Scraping Comparison
 
 This repository contains a practical comparison between **BeautifulSoup** and **Selenium**, two powerful Python libraries used for web scraping.
 
@@ -31,9 +31,6 @@ This repository contains a practical comparison between **BeautifulSoup** and **
 
 - **Static**: HTML is available in the source directly (e.g., basic blog posts)
 - **Dynamic**: Content loads via JavaScript (e.g., modern apps, infinite scroll)
-
-> 📸 _See the screenshot `static_vs_dynamic.png` for clarity._
-
 ---
 
 ## 💡 Sample Code
